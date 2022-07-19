@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 閉店のお知らせ
 
-You can use the [editor on GitHub](https://github.com/tagawa/TenjiTag/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+平素は、点字タグをご利用いただきまして誠にありがとうございます。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+さて、突然でございますが、本ネットショップ事業は終了させていただくことになりました。
 
-### Markdown
+長年のご愛顧をいただいておりましたが、諸事情により業務の継続が難しい状況となりました。
+急な決定となりましたことをお詫びし、合わせて皆様のご理解をお願い申し上げます。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tagawa/TenjiTag/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+長い間のご愛顧に、改めてお礼を申し上げます。
